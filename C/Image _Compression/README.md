@@ -1,0 +1,1 @@
+# Quadtrees for Image Compression
